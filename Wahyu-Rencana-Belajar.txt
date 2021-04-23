@@ -5,6 +5,7 @@ RENCANA BELAJAR WAHYU
   * ES6
   * Frameworks Javascript
    ^ Vue
+   ^ React
 - PHP Frameworks
   * Laravel
 - Python
