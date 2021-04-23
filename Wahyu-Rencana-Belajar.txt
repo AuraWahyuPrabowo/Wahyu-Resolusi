@@ -1,6 +1,5 @@
 RENCANA BELAJAR WAHYU
 - Internet
-- CSS Frameworks
 - Javascript
   * ES6
   * Frameworks Javascript
