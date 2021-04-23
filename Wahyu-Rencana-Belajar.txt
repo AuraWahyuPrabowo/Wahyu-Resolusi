@@ -2,6 +2,9 @@ RENCANA BELAJAR WAHYU
 - Internet
 - CSS Frameworks
 - Javascript
-  *ES6
-  *Frameworks Javascript
+  * ES6
+  * Frameworks Javascript
+   ^ Vue
 - PHP Frameworks
+  * Laravel
+- Python
